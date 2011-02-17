@@ -12,5 +12,29 @@
 * webhooks for extensions
  * SMS
 
+## KISS ##
 
+* jeder Task ist ein reiner String
+* "/" definiert Tag
+* "@" definiert Kontext
+* "#" als mögliches Tag (ala twitter)
 
+# Language Processing #
+
+## An einem bestimmten Tag ##
+
+am weekday|zahl|zahl.|zahl monat|zahl. monat
+
+tokenize 
+
+Montag
+Dienstag
+Mittwoch
+Donnerstag
+Freitag
+Samstag
+Sonntag
+
+Ignore Case
+
+Trie aufbauen

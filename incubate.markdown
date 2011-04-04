@@ -6,10 +6,15 @@
 * Find Music, Music Browser, PS3
 * Serien Anwendung, Wann läuft was?
 
-## Other ##
+## Web-Services ##
 
 * CRM
 * FinanceManager
+* Email Statistik 
+* Konzerte in meiner Nähe
+
+## Other ##
+
 * FlickrFile System /fuse /c
 * Natural Language for dates & appointments /java /language
 * Screenschots von einer Website mit Java /java
@@ -17,12 +22,10 @@
 * Notification System mit Droids 
 * Orte auf Bahn/Bus mappen und Streckenalternativen anbieten
 * Email Watcher /imap 
-* Email Statistik 
-* Email TIme outs
+* Email Time outs
 * Briefe mit Latex mit MMD
 * Social Graph/Remcommendation Engine
 * Webhooks
-* Konzerte in meiner Nähe
 * Würfelproramm für Shadowrun (Ruby, Objective C)
 
 ## Sprachen ##

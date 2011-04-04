@@ -12,6 +12,7 @@
 * FinanceManager
 * Email Statistik 
 * Konzerte in meiner Nähe
+* (Multi-)Markdown to PDF as a service. Via choosable Latex templates.
 
 ## Other ##
 
